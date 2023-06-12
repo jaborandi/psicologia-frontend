@@ -54,7 +54,7 @@ module.exports = configure(function (ctx) {
       env: {
         APP_NAME: 'Psicologia',
         API_URL: 'https://psicologia.jaborandi.sp.gov.br/',
-        API_PATH: 'https://psicoapi.jaborandi.sp.gov.br/',
+        API_PATH: 'https://psicoapi.jaborandi.sp.gov.br/api/',
         STORAGE_KEY: 'PSICOLOGIA',
         PUBLIC_URL : '/'
       },
