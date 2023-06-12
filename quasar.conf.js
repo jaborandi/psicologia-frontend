@@ -53,8 +53,8 @@ module.exports = configure(function (ctx) {
       vueRouterMode: 'history', // available values: 'hash', 'history'
       env: {
         APP_NAME: 'Psicologia',
-        API_URL: 'http://localhost:8060/',
-        API_PATH: 'http://localhost:8060/api/',
+        API_URL: 'https://psicologia.jaborandi.sp.gov.br/',
+        API_PATH: 'https://psicoapi.jaborandi.sp.gov.br/',
         STORAGE_KEY: 'PSICOLOGIA',
         PUBLIC_URL : '/'
       },
